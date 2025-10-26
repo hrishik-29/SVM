@@ -1,5 +1,4 @@
-# ElevateLabs_Task7_SVM
-# Elevate Labs AI & ML Internship - Task 7: Support Vector Machines (SVM) Classification
+## Support Vector Machines (SVM) Classification
 
 ## Objective
 This task focused on utilizing Support Vector Machines (SVMs) for both linear and non-linear classification problems. The implementation involved using Scikit-learn for model building, NumPy for numerical operations, and Matplotlib/Seaborn for visualization.
